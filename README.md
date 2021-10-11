@@ -1,0 +1,2 @@
+# xcronjob
+kubebuilder xcronjob-tutorial
